@@ -117,4 +117,4 @@ The BI layer includes interactive dashboards with:
 ---
 
 Feel free to fork, explore, or adapt this project.  
-📬 Let’s connect on [LinkedIn](inkedin.com/in/rsputcha/) — open to Data Engineering, Analytics, and BI roles.
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/rsputcha/) — open to Data Engineering, Analytics, and BI roles.
